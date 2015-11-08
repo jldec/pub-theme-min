@@ -1,0 +1,16 @@
+{
+  "name": "pub-theme-min",
+  "version": "1.0.0",
+  "description": "Minimal theme with just the doc-layout and main-layout templates",
+  "repository": "git://github.com/jldec/pub-theme-min.git",
+  "main": "pub-config.js",
+  "dependencies": {
+  },
+  "keywords": [
+    "pub-server",
+    "minimal",
+    "boilerplate"
+  ],
+  "author": "jurgen leschner",
+  "license": "MIT"
+}
